@@ -1,3 +1,3 @@
-function imageupdate(bhu){
+ function imageupdate(bhu){
     document.querySelector('.image').src = bhu;
 }
